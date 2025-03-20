@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\bin\Debug\net8.0\09 - This.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\bin\Debug\net8.0\09 - This.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\bin\Debug\net8.0\09 - This.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\bin\Debug\net8.0\09 - This.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\bin\Debug\net8.0\09 - This.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\obj\Debug\net8.0\09 - This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\obj\Debug\net8.0\09 - This.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\obj\Debug\net8.0\09 - This.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\obj\Debug\net8.0\09 - This.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\obj\Debug\net8.0\09 - This.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\obj\Debug\net8.0\refint\09 - This.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\obj\Debug\net8.0\09 - This.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\obj\Debug\net8.0\09 - This.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\09 - This\obj\Debug\net8.0\ref\09 - This.dll

@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\obj\Debug\net8.0\04 - Exercício IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\obj\Debug\net8.0\04 - Exercício IMC.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\obj\Debug\net8.0\04 - Exercício IMC.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\obj\Debug\net8.0\04 - Exercício IMC.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\bin\Debug\net8.0\04 - Exercício IMC.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\bin\Debug\net8.0\04 - Exercício IMC.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\bin\Debug\net8.0\04 - Exercício IMC.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\bin\Debug\net8.0\04 - Exercício IMC.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\bin\Debug\net8.0\04 - Exercício IMC.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\obj\Debug\net8.0\04 - Exercício IMC.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\obj\Debug\net8.0\refint\04 - Exercício IMC.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\obj\Debug\net8.0\04 - Exercício IMC.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\obj\Debug\net8.0\04 - Exercício IMC.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\04 - Exercício IMC\obj\Debug\net8.0\ref\04 - Exercício IMC.dll

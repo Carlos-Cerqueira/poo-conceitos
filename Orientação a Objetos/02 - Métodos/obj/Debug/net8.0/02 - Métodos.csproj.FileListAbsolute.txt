@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\obj\Debug\net8.0\02 - Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\obj\Debug\net8.0\02 - Métodos.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\obj\Debug\net8.0\02 - Métodos.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\obj\Debug\net8.0\02 - Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\bin\Debug\net8.0\02 - Métodos.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\bin\Debug\net8.0\02 - Métodos.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\bin\Debug\net8.0\02 - Métodos.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\bin\Debug\net8.0\02 - Métodos.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\bin\Debug\net8.0\02 - Métodos.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\obj\Debug\net8.0\02 - Métodos.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\obj\Debug\net8.0\refint\02 - Métodos.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\obj\Debug\net8.0\02 - Métodos.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\obj\Debug\net8.0\02 - Métodos.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\02 - Métodos\obj\Debug\net8.0\ref\02 - Métodos.dll

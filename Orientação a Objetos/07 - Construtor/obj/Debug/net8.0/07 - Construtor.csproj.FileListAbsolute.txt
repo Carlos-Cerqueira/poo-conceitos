@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\obj\Debug\net8.0\07 - Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\obj\Debug\net8.0\07 - Construtor.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\obj\Debug\net8.0\07 - Construtor.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\obj\Debug\net8.0\07 - Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\bin\Debug\net8.0\07 - Construtor.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\bin\Debug\net8.0\07 - Construtor.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\bin\Debug\net8.0\07 - Construtor.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\bin\Debug\net8.0\07 - Construtor.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\bin\Debug\net8.0\07 - Construtor.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\obj\Debug\net8.0\07 - Construtor.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\obj\Debug\net8.0\refint\07 - Construtor.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\obj\Debug\net8.0\07 - Construtor.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\obj\Debug\net8.0\07 - Construtor.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\07 - Construtor\obj\Debug\net8.0\ref\07 - Construtor.dll

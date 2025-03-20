@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\obj\Debug\net8.0\11 - Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\obj\Debug\net8.0\11 - Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\obj\Debug\net8.0\11 - Polimorfismo.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\obj\Debug\net8.0\11 - Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\bin\Debug\net8.0\11 - Polimorfismo.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\bin\Debug\net8.0\11 - Polimorfismo.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\bin\Debug\net8.0\11 - Polimorfismo.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\bin\Debug\net8.0\11 - Polimorfismo.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\bin\Debug\net8.0\11 - Polimorfismo.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\obj\Debug\net8.0\11 - Polimorfismo.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\obj\Debug\net8.0\refint\11 - Polimorfismo.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\obj\Debug\net8.0\11 - Polimorfismo.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\obj\Debug\net8.0\11 - Polimorfismo.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\11 - Polimorfismo\obj\Debug\net8.0\ref\11 - Polimorfismo.dll

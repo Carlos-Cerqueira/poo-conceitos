@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\obj\Debug\net8.0\08 - Get e Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\obj\Debug\net8.0\08 - Get e Set.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\obj\Debug\net8.0\08 - Get e Set.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\obj\Debug\net8.0\08 - Get e Set.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\bin\Debug\net8.0\08 - Get e Set.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\bin\Debug\net8.0\08 - Get e Set.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\bin\Debug\net8.0\08 - Get e Set.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\bin\Debug\net8.0\08 - Get e Set.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\bin\Debug\net8.0\08 - Get e Set.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\obj\Debug\net8.0\08 - Get e Set.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\obj\Debug\net8.0\refint\08 - Get e Set.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\obj\Debug\net8.0\08 - Get e Set.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\obj\Debug\net8.0\08 - Get e Set.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\08 - Get e Set\obj\Debug\net8.0\ref\08 - Get e Set.dll

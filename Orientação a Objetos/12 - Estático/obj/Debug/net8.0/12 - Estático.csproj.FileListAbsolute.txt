@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\obj\Debug\net8.0\12 - Estático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\obj\Debug\net8.0\12 - Estático.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\obj\Debug\net8.0\12 - Estático.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\obj\Debug\net8.0\12 - Estático.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\bin\Debug\net8.0\12 - Estático.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\bin\Debug\net8.0\12 - Estático.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\bin\Debug\net8.0\12 - Estático.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\bin\Debug\net8.0\12 - Estático.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\bin\Debug\net8.0\12 - Estático.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\obj\Debug\net8.0\12 - Estático.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\obj\Debug\net8.0\refint\12 - Estático.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\obj\Debug\net8.0\12 - Estático.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\obj\Debug\net8.0\12 - Estático.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\12 - Estático\obj\Debug\net8.0\ref\12 - Estático.dll

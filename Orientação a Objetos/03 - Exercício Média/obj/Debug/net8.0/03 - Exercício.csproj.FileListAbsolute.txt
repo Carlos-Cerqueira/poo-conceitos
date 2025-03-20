@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\obj\Debug\net8.0\03 - Exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\obj\Debug\net8.0\03 - Exercício.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\obj\Debug\net8.0\03 - Exercício.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\obj\Debug\net8.0\03 - Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\bin\Debug\net8.0\03 - Exercício.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\bin\Debug\net8.0\03 - Exercício.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\bin\Debug\net8.0\03 - Exercício.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\bin\Debug\net8.0\03 - Exercício.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\bin\Debug\net8.0\03 - Exercício.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\obj\Debug\net8.0\03 - Exercício.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\obj\Debug\net8.0\refint\03 - Exercício.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\obj\Debug\net8.0\03 - Exercício.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\obj\Debug\net8.0\03 - Exercício.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\03 - Exercício\obj\Debug\net8.0\ref\03 - Exercício.dll

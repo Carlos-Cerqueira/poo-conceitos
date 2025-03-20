@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\obj\Debug\net8.0\13 - Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\obj\Debug\net8.0\13 - Abstração.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\obj\Debug\net8.0\13 - Abstração.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\obj\Debug\net8.0\13 - Abstração.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\bin\Debug\net8.0\13 - Abstração.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\bin\Debug\net8.0\13 - Abstração.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\bin\Debug\net8.0\13 - Abstração.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\bin\Debug\net8.0\13 - Abstração.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\bin\Debug\net8.0\13 - Abstração.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\obj\Debug\net8.0\13 - Abstração.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\obj\Debug\net8.0\refint\13 - Abstração.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\obj\Debug\net8.0\13 - Abstração.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\obj\Debug\net8.0\13 - Abstração.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\13 - Abstração\obj\Debug\net8.0\ref\13 - Abstração.dll

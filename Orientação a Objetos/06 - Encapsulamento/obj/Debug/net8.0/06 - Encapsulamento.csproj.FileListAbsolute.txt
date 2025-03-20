@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\bin\Debug\net8.0\06 - Encapsulamento.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\bin\Debug\net8.0\06 - Encapsulamento.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\bin\Debug\net8.0\06 - Encapsulamento.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\bin\Debug\net8.0\06 - Encapsulamento.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\bin\Debug\net8.0\06 - Encapsulamento.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\obj\Debug\net8.0\06 - Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\obj\Debug\net8.0\06 - Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\obj\Debug\net8.0\06 - Encapsulamento.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\obj\Debug\net8.0\06 - Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\obj\Debug\net8.0\06 - Encapsulamento.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\obj\Debug\net8.0\refint\06 - Encapsulamento.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\obj\Debug\net8.0\06 - Encapsulamento.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\obj\Debug\net8.0\06 - Encapsulamento.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\06 - Encapsulamento\obj\Debug\net8.0\ref\06 - Encapsulamento.dll

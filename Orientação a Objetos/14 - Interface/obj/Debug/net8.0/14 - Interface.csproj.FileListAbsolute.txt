@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\obj\Debug\net8.0\14 - Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\obj\Debug\net8.0\14 - Interface.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\obj\Debug\net8.0\14 - Interface.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\obj\Debug\net8.0\14 - Interface.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\bin\Debug\net8.0\14 - Interface.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\bin\Debug\net8.0\14 - Interface.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\bin\Debug\net8.0\14 - Interface.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\bin\Debug\net8.0\14 - Interface.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\bin\Debug\net8.0\14 - Interface.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\obj\Debug\net8.0\14 - Interface.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\obj\Debug\net8.0\refint\14 - Interface.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\obj\Debug\net8.0\14 - Interface.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\obj\Debug\net8.0\14 - Interface.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\14 - Interface\obj\Debug\net8.0\ref\14 - Interface.dll

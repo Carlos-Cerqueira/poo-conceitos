@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\obj\Debug\net8.0\10 - Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\obj\Debug\net8.0\10 - Herança.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\obj\Debug\net8.0\10 - Herança.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\obj\Debug\net8.0\10 - Herança.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\bin\Debug\net8.0\10 - Herança.exe
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\bin\Debug\net8.0\10 - Herança.deps.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\bin\Debug\net8.0\10 - Herança.runtimeconfig.json
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\bin\Debug\net8.0\10 - Herança.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\bin\Debug\net8.0\10 - Herança.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\obj\Debug\net8.0\10 - Herança.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\obj\Debug\net8.0\refint\10 - Herança.dll
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\obj\Debug\net8.0\10 - Herança.pdb
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\obj\Debug\net8.0\10 - Herança.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\poo\Orientação a Objetos\10 - Herança\obj\Debug\net8.0\ref\10 - Herança.dll
